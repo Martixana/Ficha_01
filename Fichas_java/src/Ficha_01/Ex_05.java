@@ -1,4 +1,4 @@
-package Ficha_01.Ficha_01;
+package Ficha_01;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Ex_05 {
         //Escreva um programa que calcule a média de 3 valores introduzidos pelo utilizador. Deverá apresentar também a média ponderada tendo em conta as seguintes ponderações: 20%. 30%, 50%.
 
         //declaracao variáveis
-        int  valorA, valorB, valorC;
+        double  valorA, valorB, valorC;
 
         //ler valorA
         System.out.println("Bom dia! Insira um número inteiro");
@@ -25,7 +25,7 @@ public class Ex_05 {
         valorC = input.nextInt();
 
         //Calcular a média
-        double avg = (valorA * valorB * valorC);
+         double avg =  (valorA * valorB * valorC)/3;
 
         //Calcular a média ponderada
         double avg_pon = (valorA * 0.2) + (valorB * 0.3) + (valorC * 0.5);

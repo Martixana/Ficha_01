@@ -16,7 +16,7 @@ public class Ex_03 {
 
         //Calcular area
         double peri = 2 * pi * raio;
-        double area = raio * pi * pi;
+        double area = raio * raio * pi;
 
         // Apresentar resultado
         System.out.println("A área da sua circumferência é de" + " " + area + "e o perímetro é de " + peri );
