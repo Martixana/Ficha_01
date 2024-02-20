@@ -23,7 +23,7 @@ public class Ex_02 {
         num2 = input.nextInt();
 
         //Subtracao num1 com num2 a multiplicar por 1o numero
-        var sub_multi = (num1 - num2) * num1;
+        double sub_multi = (num1 - num2) * num1;
 
         // Apresentar resultado
         System.out.println("O resutado é" + " " + sub_multi );

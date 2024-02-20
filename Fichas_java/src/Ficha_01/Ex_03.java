@@ -19,7 +19,7 @@ public class Ex_03 {
         double area = raio * pi * pi;
 
         // Apresentar resultado
-        System.out.println("A sua área é de" + " " + area + "e o perímetro é de " + peri );
+        System.out.println("A área da sua circumferência é de" + " " + area + "e o perímetro é de " + peri );
     }
 
 
