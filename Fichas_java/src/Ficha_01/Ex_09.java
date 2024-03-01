@@ -46,7 +46,11 @@ public class Ex_09 {
 
         //a- o valor líquido a receber fruto do seu vencimento
 
-
+        public class Main {
+            static void vencimento_liquido() {
+                // code to be executed
+            }
+        }
 
         // b - total subsídio de alimentação
         // c - valor da retenção de IRS a entregar ao estado
