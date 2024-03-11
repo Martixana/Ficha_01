@@ -2,7 +2,7 @@ package Ficha_05;
 
 import java.util.Scanner;
 
-public class Ex_07 {s
+public class Ex_07 {
 }
 import java.util.Scanner;
 public class ex_07 {
